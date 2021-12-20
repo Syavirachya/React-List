@@ -1,0 +1,206 @@
+.middle-container{
+    border-width: 1px;
+    border-style: solid;
+   
+}
+.card {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    background: linear-gradient(#2452a3, #8fdafa, #5985bb);
+    width: 350px;
+    margin: auto;
+    border-radius: 33px;
+    padding: 2rem !important;  
+    border-top-style: double;
+    border-right-width:5px;
+    border-top-width:5px;
+
+
+    
+}
+.card-title{
+    text-align: center;
+    color: #e4db66;
+}
+.button{
+    text-align: center;
+    background: #e77b33;
+    border: none;
+    width: 250px;
+    cursor: pointer;
+    padding: 10px 25px;
+    font-size: 12px;
+    font-family: Rockwell;
+    text-align: center;
+    outline: none;
+    color: #ffff;
+    margin-left: 200px; 
+    margin-top: 10px;
+    box-shadow:  5px ;
+}
+.form{
+    background-color: #FFFFFF;
+}
+.form-control {
+    font-family: helvetica;
+    font-size: 16px;
+    text-align: left;
+    border-style:outset;
+    border-color: rgb(196, 201, 204);
+    border-radius: 5px;
+    padding-left: 10px;
+    margin: 5px;
+    width: 400px;
+    height: 45px;
+}
+
+.form-select {
+    font-family: helvetica;
+    font-size: 16px;
+    width: 400px;
+    height: 45px;
+    text-align: left;
+    border-style: outset;
+    border-color: rgb(196, 201, 204);
+    border-radius: 5px;
+    border-width: 2px;
+    margin-top: 5px;
+    padding: 10px;
+}
+
+.form-label {
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: 700;
+}
+input{
+    margin-bottom: 5px;
+}
+
+select{
+    margin-bottom: 5px;
+}
+
+#form-input-card{
+    
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    width:500px;
+    border-top-style: double;
+    border-right-width:7px;
+    
+}
+
+.top-container {
+    display: flex;
+    align-items: center
+}
+
+.profile-img {
+    border-radius: 10px;
+    border: 2px solid #17691b;
+    width: 130px;
+    margin-right: 10px;
+}
+
+.name {
+    font-size: 20px;
+     font-family: andalus;
+    font-style: italic;
+    font-weight: bold;
+    color: #272727;
+    position: relative;
+    top: 8px;
+    /* margin-left: 8px; */
+    text-align: left;
+}
+.mail {
+    font-size: 18px;
+    margin: 20px;
+
+    color: #f3faf6;
+    font-weight: bold;
+    text-align: center;
+}
+
+.middle-container {
+    background-color: rgb(226, 146, 53);
+    border-radius: 12px
+}
+
+
+.job {
+    font-size: 15px;
+    margin: 20px;
+    color: #272727;
+    font-weight: bold;
+    text-align: left;
+}
+
+.alamat {
+    font-size: 15px;
+    margin: 20px;
+    color: #272727;
+    font-weight: bold;
+    text-align: left;
+}
+
+.company {
+    color: #be571b;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: left;
+}
+
+
+.addressdetail{
+    margin-left:10px;
+}
+
+.phonenum {
+    font-size: 10px;
+    color: #e4f311;
+    font-size: 10pt;
+    margin-right: 8px;
+    margin-left: 8px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.phonenumdetail{
+    font-size: 15px;
+    margin: 20px;
+    color: #272727;
+    font-weight: bold;
+    text-align: left;
+
+}
+
+.email {
+    font-size: 15px;
+    margin: 20px;
+    color: #272727;
+    font-weight: bold;
+    text-align: left;
+}
+
+.emaildetail{
+    font-size: 15px;
+    margin: 20px;
+    color: #272727;
+    font-weight: bold;
+    text-align: left;
+}
+
+
+.row{
+    margin-top: 10px;
+}
+
+
